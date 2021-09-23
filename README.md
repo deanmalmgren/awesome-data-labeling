@@ -26,6 +26,7 @@ A curated list of awesome data labeling tools
 * [LOST](https://github.com/l3p-cv/lost) - Design your own smart Image Annotation process in a web-based environment
 * [Annotorious](https://github.com/recogito/annotorious) - A JavaScript library for image annotation.
 * [Sloth](https://github.com/cvhciKIT/sloth) - Tool for labeling image and video data for computer vision research.
+* [Prodigy](https://prodi.gy/) - Annotation tool for labeling images
 
 
 #### Text
@@ -34,6 +35,7 @@ A curated list of awesome data labeling tools
 * [TagEditor](https://github.com/d5555/TagEditor) - Annotation tool for spaCy
 * [SMART](https://github.com/RTIInternational/SMART) - Smarter Manual Annotation for Resource-constrained collection of Training data
 * [PIAF](https://github.com/etalab/piaf) - A Question-Answering annotation tool
+* [Prodigy](https://prodi.gy/) - Annotation tool for spaCy
 
 #### Audio
 
@@ -44,6 +46,7 @@ A curated list of awesome data labeling tools
 * [peak.js](https://github.com/bbc/peaks.js) - Browser-based audio waveform visualisation and UI component for interacting with audio waveforms, developed by BBC UK.
 * [Praat](https://github.com/praat/praat) - Doing Phonetics By Computer
 * [Aubio](https://aubio.org/) - Tool designed for the extraction of annotations from audio signals.
+
 
 #### Video 
 
